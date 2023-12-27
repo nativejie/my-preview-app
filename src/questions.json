@@ -1,0 +1,57 @@
+[
+    {
+        "question": "在 SQL 的 SELECT 语句中，与选择运算对应的命令动词是?",
+        "options": [
+            "SELEDT",
+            "FROM",
+            "WHERE",
+            "ORDER BY"
+        ],
+        "answer": "FROM",
+        "explanation": ""
+    },
+    {
+        "question": "文件系统与数据库系统相比较，其缺陷主要表现在数据联系弱、数据冗余和",
+        "options": [
+            "数据存储量低",
+            "处理速度慢",
+            "数据不一致",
+            "操作繁琐"
+        ],
+        "answer": "操作繁琐",
+        "explanation": ""
+    },
+    {
+        "question": "在数据库系统中，模式/外模式映像用于解决数据的",
+        "options": [
+            "结构独立性",
+            "物理独立性",
+            "逻辑独立性",
+            "分布独立性"
+        ],
+        "answer": "逻辑独立性",
+        "explanation": ""
+    },
+    {
+        "question": "以下对关系的叙述中，正确的是",
+        "options": [
+            "任何一个二维表就是关系",
+            "关系就是域上笛卡儿积",
+            "关系是域上笛卡儿积的子集",
+            "以上叙述都对"
+        ],
+        "answer": "关系是域上笛卡儿积的子集",
+        "explanation": ""
+    },
+    {
+        "question": "在关系模式 R（U，F）中，R∈3NF 且具有惟一的侯选键，则",
+        "options": [
+            "R 属于 3NF 不属于 BCNF",
+            "R 一定属于 BCNF",
+            "R 不一定属于 BCNF",
+            "当侯选键是单属性时，R 属于 BCNF"
+        ],
+        "answer": "R 一定属于 BCNF",
+        "explanation": ""
+    }
+]
